@@ -1,7 +1,7 @@
 This is a template for what is in this template at least an accessible WCAG 2.1 compliant HS Football schedule, 
 though obviously you can use it for anything. 
 
-Copy the <tr> table rows to create additional entries.
+Copy the <tr> table rows to create additional entries. Also change TEAM_NAME to your team's name in <caption>
 
 Does not include images. It looks like this:
 
