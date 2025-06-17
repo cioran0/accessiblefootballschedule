@@ -5,7 +5,5 @@ Does not include images.
 You can use it for your district site. 
 I'm not responsible for anything resulting from use and with changes can in now way ensure compliance.
 
-Nothing commercial.
-
 Cheers,
 Mike
